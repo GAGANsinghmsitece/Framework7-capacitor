@@ -1,0 +1,26 @@
+{
+  "cwd": "/home/gagan/Projects/hybrid/test3",
+  "type": [
+    "web",
+    "capacitor"
+  ],
+  "name": "dassadsa",
+  "pkg": "asd.sdsd.ds.d.sd",
+  "framework": "core",
+  "template": "split-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}

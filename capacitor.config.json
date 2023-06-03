@@ -1,0 +1,13 @@
+{
+  "appId": "asd.sdsd.ds.d.sd",
+  "appName": "dassadsa",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
